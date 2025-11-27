@@ -75,6 +75,17 @@
     <!--START_SECTION:waka-->
     <!--END_SECTION:waka-->
   </div>
+  <h3>🐍 My Contribution Graph</h3>
+    <div align="center">
+      <picture>
+        <!-- Темная версия (для темной темы) -->
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ВАШ_НИКНЕЙМ/ВАШ_НИКНЕЙМ/output/github-contribution-grid-snake-dark.svg">
+        <!-- Светлая версия (для светлой темы) -->
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ВАШ_НИКНЕЙМ/ВАШ_НИКНЕЙМ/output/github-contribution-grid-snake.svg">
+        <!-- Дефолтная картинка -->
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ВАШ_НИКНЕЙМ/ВАШ_НИКНЕЙМ/output/github-contribution-grid-snake.svg">
+      </picture>
+    </div>
   
   <br>
 
