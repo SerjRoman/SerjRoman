@@ -73,7 +73,74 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SerjRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerjRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" height="180"/>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 132.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 555 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 29 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+🌆 Daytime                1617 commits        ██████████████░░░░░░░░░░░   54.21 % 
+🌃 Evening                1171 commits        ██████████░░░░░░░░░░░░░░░   39.26 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Tuesday                  568 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Wednesday                572 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Thursday                 255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Friday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Saturday                 193 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Sunday                   824 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Dublin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               52 repos            █████████████████░░░░░░░░   68.42 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SerjRoman/SerjRoman/main/assets/bar_graph.png)
+
+
+ Last Updated on 27/11/2025 14:14:00 UTC
+<!--END_SECTION:waka-->
     <!-- WAKATIME_START -->
     <!-- WAKATIME_END -->
     
