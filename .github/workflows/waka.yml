@@ -18,9 +18,7 @@ jobs:
           SHOW_OS: "False"             
           SHOW_PROJECTS: "True"        
           SHOW_EDITORS: "False"        
-          SHOW_TIME: "True"            
-          SHOW_TOTAL: "True"           
-          SHOW_MASKED_TIME: "True"     
+          SHOW_LANGUAGE: "True"  
           
           LOCALE: "en" 
           COMMIT_BY_ME: "True"
