@@ -72,40 +72,9 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SerjRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerjRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" height="180"/>
+    
     <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 132.8 kB Used in GitHub's Storage 
- > 
-> 🏆 555 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Dublin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SerjRoman/SerjRoman/main/assets/bar_graph.png)
-
-
- Last Updated on 27/11/2025 14:26:25 UTC
-<!--END_SECTION:waka-->
-    <!-- WAKATIME_START -->
-    <!-- WAKATIME_END -->
+    <!--END_SECTION:waka-->
     
   </div>
 
