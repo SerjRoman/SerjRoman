@@ -12,14 +12,14 @@
   </p>
   
   <h3>🧐 Current Focus & Philosophy</h3>
-<ul>
-    <li>
-        <b>Architecture First:</b> I am a strong advocate of <a href="https://feature-sliced.design/">Feature Sliced Design</a> (FSD) to keep frontend codebases scalable and maintainable.
-    </li>
-    <li>
-        <b>Academic:</b> Currently pursuing a Computer Science degree at <b>Trinity College Dublin</b>
-    </li>
-</ul>
+  <ul align="left">
+      <li>
+          <b>Architecture First:</b> I am a strong advocate of <a href="https://feature-sliced.design/">Feature Sliced Design</a> (FSD) to keep frontend codebases scalable and maintainable.
+      </li>
+      <li>
+          <b>Academic:</b> Currently pursuing a Computer Science degree at <b>Trinity College Dublin</b>
+      </li>
+  </ul>
 
   <div align="center">
       <img src="https://img.shields.io/badge/Study-Trinity_College_Dublin-004C97?style=for-the-badge&logo=auth0&logoColor=white" alt="TCD" />
@@ -70,11 +70,15 @@
 
   <h3>📊 GitHub Stats</h3>
   <div align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=SerjRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerjRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" height="180"/> -->
-    <!-- START_SECTION:waka -->
-    <!-- END_SECTION:waka -->
+    <img src="https://github-readme-stats.vercel.app/api?username=SerjRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerjRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" height="180"/>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+    <!-- WAKATIME_START -->
+    <!-- WAKATIME_END -->
+    
   </div>
+
   <h3>🐍 My Contribution Graph</h3>
     <div align="center">
       <picture>
