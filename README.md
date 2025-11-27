@@ -70,10 +70,10 @@
 
   <h3>📊 GitHub Stats</h3>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SerjRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerjRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" height="180"/>
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=SerjRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerjRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" height="180"/> -->
+    <!-- START_SECTION:waka -->
+    <!-- END_SECTION:waka -->
   </div>
   <h3>🐍 My Contribution Graph</h3>
     <div align="center">
