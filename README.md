@@ -86,10 +86,5 @@
     <a href="https://www.linkedin.com/in/serhii-roman-kikot-936528360/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-	  <h3>⏳ Coding Habits</h3>
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SerjRoman&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117" alt="WakaTime Stats" />
   </div>
-<div align="center">
-  <img src="https://github.com/ВАШ_НИКНЕЙМ/ВАШ_НИКНЕЙМ/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 </div>
