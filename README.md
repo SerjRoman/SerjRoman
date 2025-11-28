@@ -77,7 +77,7 @@
 
 > 📦 132.8 kB Used in GitHub's Storage 
  > 
-> 🏆 555 Contributions in the Year 2025
+> 🏆 560 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -85,24 +85,12 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Dublin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/SerjRoman/SerjRoman/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 14:39:51 UTC
+ Last Updated on 28/11/2025 00:58:19 UTC
 <!--END_SECTION:waka-->
     
   </div>
