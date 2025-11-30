@@ -77,7 +77,7 @@
 
 > 📦 132.8 kB Used in GitHub's Storage 
  > 
-> 🏆 561 Contributions in the Year 2025
+> 🏆 563 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -91,11 +91,13 @@
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-TypeScript               22 mins             █████████████████████████   99.74 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               52 mins             █████████████████████████   99.88 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-knitted-designer-tool    22 mins             █████████████████████████   100.00 % 
+knitted-designer-tool    32 mins             ████████████████░░░░░░░░░   62.22 % 
+my-app                   19 mins             █████████░░░░░░░░░░░░░░░░   37.78 % 
 ```
 
 **Timeline**
@@ -103,7 +105,7 @@ knitted-designer-tool    22 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/SerjRoman/SerjRoman/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2025 00:58:44 UTC
+ Last Updated on 30/11/2025 01:07:08 UTC
 <!--END_SECTION:waka-->
     
   </div>
