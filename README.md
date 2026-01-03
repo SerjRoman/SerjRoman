@@ -75,7 +75,7 @@
     <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 135.7 kB Used in GitHub's Storage 
+> 📦 138.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2026
  > 
@@ -83,33 +83,14 @@
  > 
 > 📜 31 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Dublin
-
-💬 Programming Languages: 
-TypeScript               10 hrs 39 mins      ████████████████████████░   96.44 % 
-CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-
-🐱‍💻 Projects: 
-knitted-designer-tool    8 hrs 3 mins        ██████████████████░░░░░░░   72.93 % 
-my-app                   2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-1600Project2             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-1600TestReact            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/SerjRoman/SerjRoman/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 01:05:31 UTC
+ Last Updated on 03/01/2026 01:01:19 UTC
 <!--END_SECTION:waka-->
     
   </div>
