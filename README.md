@@ -91,13 +91,10 @@
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        █████████████████████████   98.39 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-my-app                   2 hrs 9 mins        █████████████████████████   99.71 % 
-1600TestReact            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -105,7 +102,7 @@ my-app                   2 hrs 9 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/SerjRoman/SerjRoman/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2026 01:08:47 UTC
+ Last Updated on 13/01/2026 01:02:25 UTC
 <!--END_SECTION:waka-->
     
   </div>
