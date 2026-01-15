@@ -77,7 +77,7 @@
 
 > 📦 138.4 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -91,10 +91,16 @@
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 2 mins        █████████████████████████   98.30 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+my-app                   1 hr 26 mins        █████████████████░░░░░░░░   69.27 % 
+algorithms               37 mins             ████████░░░░░░░░░░░░░░░░░   30.26 % 
+Technology-project       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 **Timeline**
@@ -102,7 +108,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/SerjRoman/SerjRoman/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2026 01:08:02 UTC
+ Last Updated on 15/01/2026 01:03:45 UTC
 <!--END_SECTION:waka-->
     
   </div>
