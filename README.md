@@ -91,18 +91,18 @@
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-TypeScript               32 hrs 31 mins      ████████████████████████░   94.88 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-CSS                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+TypeScript               32 hrs 34 mins      ████████████████████████░   95.29 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+CSS                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-alias-backend            18 hrs 13 mins      █████████████░░░░░░░░░░░░   53.16 % 
-alias-frontend           6 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-knitted-designer-tool    4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-my-app2                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-my-app3                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+alias-backend            18 hrs 13 mins      █████████████░░░░░░░░░░░░   53.30 % 
+alias-frontend           6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+knitted-designer-tool    4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+my-app2                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+my-app3                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 
 **Timeline**
@@ -110,7 +110,7 @@ my-app3                  1 hr 22 mins        █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SerjRoman/SerjRoman/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 01:19:13 UTC
+ Last Updated on 24/02/2026 01:17:44 UTC
 <!--END_SECTION:waka-->
     
   </div>
