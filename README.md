@@ -91,18 +91,18 @@
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-TypeScript               32 hrs 34 mins      ████████████████████████░   95.29 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-CSS                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               28 hrs 47 mins      ████████████████████████░   94.68 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+CSS                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-alias-backend            18 hrs 13 mins      █████████████░░░░░░░░░░░░   53.30 % 
-alias-frontend           6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-knitted-designer-tool    4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-my-app2                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-my-app3                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+alias-backend            18 hrs 46 mins      ███████████████░░░░░░░░░░   61.74 % 
+alias-frontend           6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+my-app2                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+my-app3                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+my-app4                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 
 **Timeline**
@@ -110,7 +110,7 @@ my-app3                  1 hr 22 mins        █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SerjRoman/SerjRoman/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2026 01:17:44 UTC
+ Last Updated on 25/02/2026 01:22:58 UTC
 <!--END_SECTION:waka-->
     
   </div>
