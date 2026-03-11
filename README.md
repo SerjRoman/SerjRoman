@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Student+@+Trinity+College+Dublin;Writing+Code+for+4+Years" alt="Typing SVG" />
   </a>
 
-  <h3>👋 Hi there! I'm a Frontend Developer</h3>
+  <h3>👋 Hi there! I'm a Fullstack Developer</h3>
   
   <p align="center">
-     I have been <b>deeply exploring Frontend Development for over 3 years</b>, building modern web applications with a strong focus on architecture (FSD).<br>
-     Currently, I am expanding my skillset into Backend development and pursuing my degree at <b>Trinity College Dublin</b>.
+     I have been <b>deeply exploring Frontend and Backend Development for over 3 years</b>, building modern web applications with a strong focus on architecture FSD and Clean Architecture.<br>
+     Currently, I am expanding my skillset deeply into Backend development and pursuing my degree at <b>Trinity College Dublin</b>.
   </p>
   
   <h3>🧐 Current Focus & Philosophy</h3>
   <ul align="left">
       <li>
-          <b>Architecture First:</b> I am a strong advocate of <a href="https://feature-sliced.design/">Feature Sliced Design</a> (FSD) to keep frontend codebases scalable and maintainable.
+          <b>Architecture First:</b> I am a strong advocate of <a href="https://feature-sliced.design/">Feature Sliced Design</a>(FSD) and Clean Architecture  to keep codebases scalable and maintainable.
       </li>
       <li>
           <b>Academic:</b> Currently pursuing a Computer Science degree at <b>Trinity College Dublin</b>
