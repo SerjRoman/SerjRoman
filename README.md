@@ -14,7 +14,10 @@
   <h3>🧐 Current Focus & Philosophy</h3>
   <ul align="left">
       <li>
-          <b>Architecture First:</b> I am a strong advocate of <a href="https://feature-sliced.design/">Feature Sliced Design</a>(FSD) and Clean Architecture  to keep codebases scalable and maintainable.
+          <b>Architecture First:</b> I am a strong advocate of <a href="https://feature-sliced.design/">Feature Sliced Design</a> (FSD) and Clean Architecture to keep codebases scalable and maintainable.
+      </li>
+      <li>
+          <b>Continuous Growth:</b> I believe in lifelong learning and staying ahead of the curve by constantly exploring emerging technologies and best industry practices.
       </li>
       <li>
           <b>Academic:</b> Currently pursuing a Computer Science degree at <b>Trinity College Dublin</b>
@@ -40,7 +43,7 @@
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
     <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="RTK Query" />
     <br>
-    <img src="https://img.shields.io/badge/Architecture-Feature_Sliced_Design-black?style=for-the-badge&logo=apple&logoColor=white" alt="FSD" />
+    <img src="https://img.shields.io/badge/Architecture-Feature_Sliced_Design-black?style=for-the-badge&logo=air-force-one&logoColor=white" alt="FSD" />
   </div>
 
   <br>
@@ -49,6 +52,12 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+    <br>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <br>
+    <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-black?style=for-the-badge&logo=codetransfer&logoColor=white" alt="Clean Architecture" />
   </div>
 
   <br>
@@ -72,47 +81,6 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SerjRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerjRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" height="180"/>
-    <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 139.5 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Dublin
-
-💬 Programming Languages: 
-TypeScript               28 hrs 47 mins      ████████████████████████░   94.68 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-CSS                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-
-🐱‍💻 Projects: 
-alias-backend            18 hrs 46 mins      ███████████████░░░░░░░░░░   61.74 % 
-alias-frontend           6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-my-app2                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-my-app3                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-my-app4                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SerjRoman/SerjRoman/main/assets/bar_graph.png)
-
-
- Last Updated on 25/02/2026 01:22:58 UTC
-<!--END_SECTION:waka-->
-    
   </div>
 
   <h3>🐍 My Contribution Graph</h3>
